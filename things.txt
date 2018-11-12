@@ -1,7 +1,7 @@
-I like to eat: <falafel>
-I like to hear: <music>
-My hobbies are <coding>.
+I like to eat: falafel
+I like to hear: music
+My hobbies are travel
 
-I would like to travel to <france>.
+I would like to travel to prag
 
-"<hi Your favorite quote goes here>".
+"i love python".
